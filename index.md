@@ -405,3 +405,8 @@
 <br><br>
 
 # 스토리보드<a name='스토리보드'></a>
+<img src="./img/StoryBoard1.png">
+<img src="./img/StoryBoard2.png">
+<img src="./img/StoryBoard3.png">
+<img src="./img/StoryBoard4.png">
+<img src="./img/StoryBoard5.png">
