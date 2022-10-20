@@ -1,4 +1,4 @@
-# 프로젝트명 : RollingRock
+# 프로젝트명 : RollingRock(송하민)
 
 # [ 목차 ]
 
