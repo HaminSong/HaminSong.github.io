@@ -101,7 +101,7 @@
 
 - ## 이미지  
 
-  <img src="./img/example1.png">
+  <img src="./img/대표이미지.png">
   
   <br>
   
