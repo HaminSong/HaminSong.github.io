@@ -199,13 +199,13 @@
 |5|나무(Tree)|<img src="./img/나무.png">|
 |6|가시함정(Trap)|<img src="./img/가시함정.png">|
 |7|풍차(Windmill)|<img src="./img/풍차.png">|
-|8|새집(Bird House)|<img src="./img/풍차.png">|
+|8|새집(Bird House)|<img src="./img/새집.png">|
 |9|폭탄(Bomb)|<img src="./img/폭탄.png">|
 |11|경사로(Slope)|<img src="./img/경사로.png">|
 |12|스테이지(Select Stage)|<img src="./img/스테이지.png">|
 |13|환경설정(Setting)|<img src="./img/환경설정.png">|
 |14|메뉴(Menu)|<img src="./img/메뉴.png">|
-|15|황금 새(Gold Bird)|<img src="./img/메뉴.png">|
+|15|황금 새(Gold Bird)|<img src="./img/황금새.png">|
 
 <br><br>
 
