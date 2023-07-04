@@ -31,7 +31,7 @@
   - 게임에서 사용될 공식
   
 ## 8.[요구사항](#요구사항)
-
+## 9.[코드 링크](#코드 링크)
 <br><br>
 
 # [개요] <a name='개요'></a>
@@ -347,3 +347,7 @@
 - ~~버튼 이미지~~
 - ~~판넬 이미지~~
 - ~~텍스트 출력창 이미지~~
+
+<br><br>
+# [코드 링크] <a name='코드 링크'></a>
+https://github.com/HaminSong/HaminSong.github.io/tree/main/Scripts
