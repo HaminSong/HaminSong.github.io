@@ -31,7 +31,7 @@
   - 게임에서 사용될 공식
   
 ## 8.[요구사항](#요구사항)
-## 9.[코드링크](#코드링크)
+## 9.[스크립트링크](#스크립트링크)
 <br><br>
 
 # [개요] <a name='개요'></a>
@@ -349,5 +349,7 @@
 - ~~텍스트 출력창 이미지~~
 
 <br><br>
-# [코드링크] <a name='코드링크'></a>
+# [스크립트링크] <a name='스크립트링크'></a>
+## 네트워크 통신에 쓰인 스크립트는 학교 수업자료를 토대로 수정하여 제작하였습니다.
+- 수업자료에 해당하는 스크립트 : (CommonData.cs, NetworkManager_Client.cs, NetworkManager_Server.cs, Server.cs)
 https://github.com/HaminSong/HaminSong.github.io/tree/main/Scripts
