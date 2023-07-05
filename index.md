@@ -350,6 +350,6 @@
 
 <br><br>
 # [스크립트링크] <a name='스크립트링크'></a>
-## 네트워크 통신에 쓰인 스크립트는 학교 수업자료를 토대로 수정하여 제작하였습니다.
-- 수업자료에 해당하는 스크립트 : (CommonData.cs, NetworkManager_Client.cs, NetworkManager_Server.cs, Server.cs)
-https://github.com/HaminSong/HaminSong.github.io/tree/main/Scripts
+## 네트워크 통신에 쓰인 일부 스크립트는 학교 수업자료를 토대로 제작하였습니다.
+- 해당 스크립트 : (CommonData.cs, NetworkManager_Client.cs, NetworkManager_Server.cs, Server.cs)
+### 링크 : https://github.com/HaminSong/HaminSong.github.io/tree/main/Scripts
